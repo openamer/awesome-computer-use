@@ -65,10 +65,12 @@ The full package. These see your screen, click things, type things, and occasion
 - [Open Cowork](https://github.com/coasty-ai/open-cowork) - Coasty's full-stack computer-use coworker, multi-provider BYO LLM. `130 ⭐`.
 - [Cua](https://github.com/trycua/cua) - Containers for computer-use agents. `21.2k ⭐`.
 - [Cybergod](https://github.com/james4ever0/agi_computer_control) - AGI computer control framework. `157 ⭐`.
+- [Agent Hands Kit](https://github.com/thanatos333/agent-hands-kit) - Toolkit that gives AI agents hands and eyes on a real Windows desktop: a resident UI Automation agent (snapshots, screenshots, paste/typing input), PowerShell tools, and headless wrappers for creative apps. Localhost-only with token auth. `2 ⭐`
 
 ## Browser Agents
 
 For when your AI only needs to wreck things on the web.
+
 
 - [Browser-Use](https://github.com/browser-use/browser-use) - SOTA browser automation, makes websites LLM-friendly. `108.8k ⭐`.
 - [Skyvern](https://github.com/Skyvern-AI/skyvern) - Vision-driven web automation, no coded selectors. `22.7k ⭐`.
