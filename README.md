@@ -71,7 +71,6 @@ The full package. These see your screen, click things, type things, and occasion
 
 For when your AI only needs to wreck things on the web.
 
-
 - [Browser-Use](https://github.com/browser-use/browser-use) - SOTA browser automation, makes websites LLM-friendly. `108.8k ⭐`.
 - [Skyvern](https://github.com/Skyvern-AI/skyvern) - Vision-driven web automation, no coded selectors. `22.7k ⭐`.
 - [Nanobrowser](https://github.com/nanobrowser/nanobrowser) - Chrome extension, multi-agent Planner and Navigator. `13.5k ⭐`.
